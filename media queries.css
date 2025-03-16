@@ -1,5 +1,5 @@
 /* General styles for mobile devices */
-@media (max-width: 768px) {
+@media (max-width: 479px) {
     nav.orange-bar, nav.white-bar, nav.dark-blue-bar, nav.dark-purple-bar, nav.dark-orange-bar {
         padding-left: 10px; /* Reduce padding for smaller screens */
         padding-right: 10px; /* Add padding to the right for smaller screens */
